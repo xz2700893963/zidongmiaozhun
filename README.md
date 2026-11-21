@@ -1,2 +1,2 @@
 # zidongmiaozhun
-这个是基于sm32F407ZGT6+Maxcam2的25年电赛的二维云台的自动瞄准装置
+这个是基于sm32F407ZGT6+Maxcam2的25年电赛的二维云台运用serialplot调整参数的自动瞄准装置
